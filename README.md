@@ -1,7 +1,5 @@
-# npm 免费图床 🖼️
-
 <div align="center">
-  <img src="./images/npm-pic.png" alt="npm图床" width="200"/>
+  <img src="https://unpkg.com/cosmium@latest/images/other/npm-pic.png" alt="npm图床" width="200"/>
   <p><strong>利用 npm 包作为免费、稳定的图床解决方案</strong></p>
   <p>
     <img src="https://img.shields.io/npm/v/cosmium?style=flat-square" alt="npm version"/>
