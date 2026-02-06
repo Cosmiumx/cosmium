@@ -1,11 +1,11 @@
 {
   "name": "npm-graph-bed",
-  "version": "0.0.6",
+  "version": "0.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "cosima",
+  "author": "",
   "license": "ISC",
   "description": "npm graph bed - free image hosting solution using npm CDN"
 }
